@@ -2,7 +2,7 @@
   "name": "run-ts",
   "private": true,
   "version": "0.1.0",
-  "packageManager": "pnpm@8.1.0",
+  "packageManager": "pnpm@8.15.5",
   "description": "A tiny template that let's you run Typescript files locally in a nice environment",
   "scripts": {
     "dev": "tsx src/index.ts",
